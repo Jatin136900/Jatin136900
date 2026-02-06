@@ -10,7 +10,7 @@ MERN Stack, advanced JavaScript, Node.js, and real-world AI implementation
 <br><br>
 Frontend development, HTML/CSS animations, React, UI/UX design, and project structuring  
 <br><br>
-I’m redesigning my life with high-performance systems and a long-term compounding mindset 🚀
+I’m redesigning my life with high-performance systems and long-term compounding mindset 🚀
 
 ---
 
@@ -61,17 +61,27 @@ I’m redesigning my life with high-performance systems and a long-term compound
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Jatin136900&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Jatin136900&show_icons=true&theme=dark)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jatin136900&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Jatin136900&theme=dark)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin136900&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin136900&layout=compact&theme=dark)
+
+---
+
+## 🔝 Top Contributed Repositories
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=Jatin136900&repo=portfolio&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Jatin136900&repo=React-Portfolio&theme=dark)
+![](https://github-readme-stats.vercel.app/api/pin/?username=Jatin136900&repo=photobooth&theme=dark)
+
+> 🔥 This method is **100% stable** (no API crash, no white error)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Jatin136900&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Jatin136900&theme=radical&margin-w=4)
 
 ---
 
@@ -83,4 +93,4 @@ I’m redesigning my life with high-performance systems and a long-term compound
 
 [![](https://visitcount.itsvg.in/api?id=Jatin136900&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Clean, stable & recruiter-ready README -->
+<!-- Stable, clean & recruiter-ready README -->
